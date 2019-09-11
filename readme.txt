@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Git merge with no-ff.
 Git store changes.
+add msg1 by thedust2 
